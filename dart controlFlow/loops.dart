@@ -7,4 +7,19 @@ void main(List<String> args) {
   for(final num in nums){
     print( num);
   }
+  // while (condition) {
+    
+  // }
+  // do {
+    
+  // } while (condition);
+
+  // switch (
+    
+  // ) {
+  //   case value:
+      
+  //     break;
+  //   default:
+  // }
 }
